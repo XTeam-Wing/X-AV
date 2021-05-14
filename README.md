@@ -101,4 +101,4 @@ Usage of ./X-AV:
 
 ![image](https://user-images.githubusercontent.com/25416365/118236750-0ded1700-b4c9-11eb-8e63-1b92b6f668b5.png)
 
-  -v	display detail infomation
+
