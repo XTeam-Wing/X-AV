@@ -93,3 +93,12 @@ Usage of ./X-AV:
 ```
 ./X-AV -shellcodepath cdn.bin -o rc4.exe -key wing -encrypt rc4  -loadermethod uuid
 ```
+
+## 测试结果
+对象：WindowsDefender
+基本测试这个AV就行了
+![](https://i.loli.net/2021/05/14/Q8RvafxMIFKGXWU.png)
+
+![image](https://user-images.githubusercontent.com/25416365/118236750-0ded1700-b4c9-11eb-8e63-1b92b6f668b5.png)
+
+  -v	display detail infomation
