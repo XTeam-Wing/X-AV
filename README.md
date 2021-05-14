@@ -1,6 +1,6 @@
 # X-AV
 X系列安全工具-AV免杀框架-BypassAV
-
+暂未开源
 
 ## 加载方式
 - Syscall
