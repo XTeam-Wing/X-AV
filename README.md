@@ -1,6 +1,6 @@
 # X-AV
 X系列安全工具-AV免杀框架-BypassAV
-暂未开源
+源码在知识星球RedTeaming
 Web版
 
 ![](https://redteamwing.oss-cn-hongkong.aliyuncs.com/20210518145602.png)
