@@ -3,9 +3,9 @@ X系列安全工具-AV免杀框架-BypassAV
 
 源码在知识星球RedTeaming
 
-Web版
+<img width="672" alt="image" src="https://user-images.githubusercontent.com/25416365/194206098-49417456-f535-420b-bec2-57931c89b6f2.png">
 
-![](https://redteamwing.oss-cn-hongkong.aliyuncs.com/20210518145602.png)
+
 
 ## 加载方式
 - Syscall
